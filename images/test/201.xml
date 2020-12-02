@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bio-image-f</folder>
+	<filename>201.jpg</filename>
+	<path>D:\bio-image-f\201.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2012</width>
+		<height>2446</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lumbar scoliosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>7</ymin>
+			<xmax>1154</xmax>
+			<ymax>1546</ymax>
+		</bndbox>
+	</object>
+</annotation>
