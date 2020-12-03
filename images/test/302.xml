@@ -1,13 +1,13 @@
 <annotation>
-	<folder>bio-image-f</folder>
+	<folder>images</folder>
 	<filename>302.jpg</filename>
-	<path>D:\bio-image-f\302.jpg</path>
+	<path>C:\Users\Asus\Desktop\images\302.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2012</width>
-		<height>2446</height>
+		<width>600</width>
+		<height>900</height>
 		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>659</xmin>
-			<ymin>12</ymin>
-			<xmax>1086</xmax>
-			<ymax>1654</ymax>
+			<xmin>192</xmin>
+			<ymin>10</ymin>
+			<xmax>320</xmax>
+			<ymax>568</ymax>
 		</bndbox>
 	</object>
 </annotation>
