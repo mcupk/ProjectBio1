@@ -1,13 +1,13 @@
 <annotation>
-	<folder>bio-image-mook</folder>
+	<folder>images</folder>
 	<filename>133.jpg</filename>
-	<path>D:\bio-image-mook\133.jpg</path>
+	<path>C:\Users\Asus\Desktop\images\133.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2012</width>
-		<height>2446</height>
+		<width>600</width>
+		<height>900</height>
 		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>778</xmin>
-			<ymin>33</ymin>
-			<xmax>1170</xmax>
-			<ymax>1701</ymax>
+			<xmin>217</xmin>
+			<ymin>8</ymin>
+			<xmax>345</xmax>
+			<ymax>666</ymax>
 		</bndbox>
 	</object>
 </annotation>

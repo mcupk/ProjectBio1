@@ -1,26 +1,26 @@
 <annotation>
-	<folder>bio-image-mook</folder>
+	<folder>images</folder>
 	<filename>119.jpg</filename>
-	<path>D:\bio-image-mook\119.jpg</path>
+	<path>C:\Users\Asus\Desktop\images\119.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2012</width>
-		<height>2446</height>
+		<width>600</width>
+		<height>900</height>
 		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>lumbar scoliosis</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>736</xmin>
-			<ymin>1</ymin>
-			<xmax>1170</xmax>
-			<ymax>1399</ymax>
+			<xmin>219</xmin>
+			<ymin>4</ymin>
+			<xmax>343</xmax>
+			<ymax>503</ymax>
 		</bndbox>
 	</object>
 </annotation>
