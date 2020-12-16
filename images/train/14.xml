@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
+	<folder>add-gaussian</folder>
 	<filename>14.jpg</filename>
-	<path>C:\Users\Asus\Desktop\images\14.jpg</path>
+	<path>D:\add-gaussian\14.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>600</width>
-		<height>900</height>
+		<width>843</width>
+		<height>1024</height>
 		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>224</xmin>
-			<ymin>3</ymin>
-			<xmax>333</xmax>
-			<ymax>577</ymax>
+			<xmin>312</xmin>
+			<ymin>69</ymin>
+			<xmax>495</xmax>
+			<ymax>545</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>add-gaussian</folder>
-	<filename>11.jpg</filename>
-	<path>D:\add-gaussian\11.jpg</path>
+	<filename>12.jpg</filename>
+	<path>D:\add-gaussian\12.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>289</xmin>
-			<ymin>32</ymin>
-			<xmax>508</xmax>
-			<ymax>613</ymax>
+			<xmin>333</xmin>
+			<ymin>146</ymin>
+			<xmax>505</xmax>
+			<ymax>635</ymax>
 		</bndbox>
 	</object>
 </annotation>
